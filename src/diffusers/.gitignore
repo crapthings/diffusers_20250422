@@ -1,0 +1,11 @@
+# Python 相关
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook 相关
+.ipynb_checkpoints/
+
+# 空类型标记文件（如果确认不需要）
+py.typed
